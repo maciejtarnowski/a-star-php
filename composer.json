@@ -1,0 +1,11 @@
+{
+    "require": {
+        "clue/graph": "^0.9",
+        "graphp/graphviz": "^0.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Astar\\": "src/"
+        }
+    }
+}
